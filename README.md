@@ -5,4 +5,5 @@
 
 这是一段新行
 
-<span style="color: #f00">红色</span>
+
+<font color=gray size=72>color=gray</font>
