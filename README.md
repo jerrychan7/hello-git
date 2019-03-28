@@ -6,4 +6,5 @@
 这是一段新行
 
 
-<font color=gray size=72>color=gray</font>
+
+<font color=#00ffff size=72>color=#00ffff</font>
